@@ -1,0 +1,83 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #FAF0DC;
+}
+.content{
+    width: 60%;
+    padding: 3%;
+    font-size: 18px;
+    /* border: 3px double black; */
+    border-bottom: 5px solid black;
+    line-height: 30px;
+    background-color: white;
+}
+.content p{
+    border: 2px solid black;
+    padding: 10px;
+}
+.check{
+    position: relative;
+    width: 60%;
+    padding: 20px 50px;
+    font-size: 18px;
+    /* border: 3px double black; */
+    line-height: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+}
+.check form{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.check form button {
+    padding: 6px 10px;
+    background-color: green;
+    color: white;
+    cursor: pointer;
+    font-size: 20px;
+    left: 50%;
+    border-radius: 5px;
+    margin-left: -9%;
+}
+.box{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.box input{
+    margin: 0 20px 0 0;
+}
+
+.ahref{
+    position: absolute;
+    padding: 4.9px 10px;
+    background-color: rgb(255, 56, 56);
+    font-size: 19px;
+    text-decoration: none;
+    color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+    left: 52%;
+    top: 58%;
+    align-items: center;  
+}
+p {
+  /* margin: 0; */
+  padding: 0;
+  font-family: 'Prompt', sans-serif;
+}
+
+
