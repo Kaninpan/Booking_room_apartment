@@ -16,4 +16,4 @@
     Username : 1@1.com 
     Password : 1
 
-File ฐานข้อมูลชื่อ : booking_hotel
+File ฐานข้อมูลชื่อ : booking_hotel.sql
