@@ -6,7 +6,7 @@
 
 ชื่อผู้ใช้เจ้าของ 
 Username : admin@bs-apt.com
-Password : 
+Password : adminbsapt123
 
 
 ผู้เช่าที่ทำการจองทั่วไป 
