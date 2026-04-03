@@ -15,7 +15,7 @@
 - `CSS` ใช้ตกแต่งหน้าเว็บ เช่น `style.css`, `booking.css`, `contract.css`
 - `JavaScript` ใช้เพิ่มการทำงานบางส่วนของหน้าเว็บ จากไฟล์ในโฟลเดอร์ `Js`
 - `Composer` ใช้จัดการไลบรารี PHP
-- `mPDF` ใช้สร้างหรือส่งออกเอกสาร PDF ภายในระบบ
+- `mPDF` ใช้สร้างหรือExport file PDF ในระบบ
 - `FPDI` ใช้ช่วยจัดการไฟล์ PDF ร่วมกับไลบรารีที่ติดตั้งผ่าน Composer
 - `Font Awesome` ใช้แสดงไอคอนบนหน้าเว็บ
 - `Google Fonts` ใช้ฟอนต์ภาษาไทย เช่น `Prompt` และ `IBM Plex Sans Thai`
